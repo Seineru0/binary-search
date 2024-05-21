@@ -1,0 +1,12 @@
+E:\unity\MyProjects\_VS2012_project\linked_list_2_ogretmen\linked_list_2_ogretmen\bin\Debug\linked_list_2_ogretmen.exe.config
+E:\unity\MyProjects\_VS2012_project\linked_list_2_ogretmen\linked_list_2_ogretmen\bin\Debug\linked_list_2_ogretmen.exe
+E:\unity\MyProjects\_VS2012_project\linked_list_2_ogretmen\linked_list_2_ogretmen\bin\Debug\linked_list_2_ogretmen.pdb
+E:\unity\MyProjects\_VS2012_project\linked_list_2_ogretmen\linked_list_2_ogretmen\obj\Debug\linked_list_2_ogretmen.csprojResolveAssemblyReference.cache
+E:\unity\MyProjects\_VS2012_project\linked_list_2_ogretmen\linked_list_2_ogretmen\obj\Debug\linked_list_2_ogretmen.exe
+E:\unity\MyProjects\_VS2012_project\linked_list_2_ogretmen\linked_list_2_ogretmen\obj\Debug\linked_list_2_ogretmen.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\Uygulamalar\binary search\linked_list_2_ogretmen\bin\Debug\linked_list_2_ogretmen.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\Uygulamalar\binary search\linked_list_2_ogretmen\obj\Debug\linked_list_2_ogretmen.exe
+C:\Users\zeyne\OneDrive\Masaüstü\Uygulamalar\binary search\linked_list_2_ogretmen\obj\Debug\linked_list_2_ogretmen.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\Uygulamalar\binary search\linked_list_2_ogretmen\bin\Debug\linked_list_2_ogretmen.exe
+C:\Users\zeyne\OneDrive\Masaüstü\Uygulamalar\binary search\linked_list_2_ogretmen\bin\Debug\linked_list_2_ogretmen.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\Uygulamalar\binary search\linked_list_2_ogretmen\obj\Debug\linked_list_2_ogretmen.csprojResolveAssemblyReference.cache
